@@ -1,0 +1,3 @@
+rootProject.name = 'JPAT-PDC-3_Peoples_Builder'
+include 'Person.java'
+include 'PersonBuilder.java'
